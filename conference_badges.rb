@@ -39,6 +39,6 @@ def printer(attendees)
   assign_rooms(attendees).each do |room|
 end
 
-badge room
+
   
 end
