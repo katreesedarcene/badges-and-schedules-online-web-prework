@@ -39,6 +39,6 @@ def printer(attendees)
   assign_rooms(attendees).each do |room|
 end
 
-puts printer(attendees)
+puts printer
   
 end
